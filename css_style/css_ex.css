@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-size: 2em;
+  background-color: rgb(198, 74, 139)
+}
+
+h1 {
+  color:rgb(184, 138, 49);
+}
+
+.container {
+  /* background-image: url("enter.jpg"); */
+}
+
+.item {
+
+}
+
+.item-a {
+  background-color: rgb(227, 245, 176)low;
+}
+
+.item-b {
+  background-color: yellowgreen;
+}

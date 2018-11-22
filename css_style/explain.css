@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  font-size: 2em;
+}
+
+h1, p {
+  margin: 5px;
+  text-align: center;
+
+  color: rgb(255, 255, 255);
+}
+
+/* .container {
+  background-image: url("enter.jpg");
+} */
+
+.item {}
+
+.item-a {
+  /* background-color: rgb(227, 245, 176); */
+  /* background-image: url("/img/enter.jpg"); */
+}
+
+.explain_con {
+  width: auto;
+}
+section {
+  width: auto;
+  height: 1000px;
+}
+
+/* #London {
+  background-image: url("/img/enter.jpg");
+  opacity: 0.7;
+}
+
+#Paris {
+  background-image: url("/img/img_1.jpg");
+
+}
+
+#Tokyo {
+  background-image: url("/img/img_2.jpg");
+  opacity: 0.7;
+}
+
+#Oslo {
+  background-image: url("/img/img_4.jpg");
+  opacity: 0.7;
+} */
+
+.tablinks{
+  width: 100%;
+  height: auto;
+  display: flex;
+
+}
+.tablinks button{
+  height: auto;
+  width: 100%;
+}
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  /* width: 15%; */
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
