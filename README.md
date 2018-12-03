@@ -3,7 +3,7 @@
  보물찾기 웹 프로젝트 입니다.
     
     - 사용 기술 : Html / css / js / php / jquery / ajax / openssl / cookie-session / bootstrap / tawk api
-    - 웹서버/os : apache2 / ubuntu 18.04  
+    - 웹서버/os : apache2 / ubuntu 18.04  // (php7.2)
     - Rdbms : mysql
   
   <영상>
